@@ -5,8 +5,8 @@
 }
 
 .body{
-    background: url("./snake\ bg\ 1.jpg"); 
-    background: linear-gradient(rgb(253, 6, 6), rgb(255, 9, 181),rgb(160, 7, 248),rgb(31, 9, 233),rgb(10, 140, 247),rgb(10, 241, 41),rgb(248, 48, 13));
+    /* background: url("./snake\ bg\ 1.jpg");  */
+    background: linear-gradient( rgb(160, 7, 248),rgb(31, 9, 233),rgb(10, 140, 247),rgb(10, 241, 41));
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
